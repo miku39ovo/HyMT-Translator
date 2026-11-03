@@ -1,0 +1,10 @@
+Machine translation has changed dramatically in the past decade. Early systems relied on
+hand-crafted rules and statistical alignments, which struggled with long-range dependencies and
+idiomatic expressions.
+
+Recent neural approaches, especially decoder-only language models, treat translation as a
+conditional generation problem. They can exploit context, terminology constraints, and even
+document-level cues to produce more fluent output.
+
+However, these models still make mistakes: they may omit clauses, mistranslate technical terms,
+or drift in style over long documents. Careful evaluation remains essential.

@@ -1,0 +1,21 @@
+1
+00:00:01,000 --> 00:00:04,200
+Good morning everyone, thanks for joining.
+
+2
+00:00:04,300 --> 00:00:08,500
+Today we will look at how a translation model
+handles long technical documents.
+
+3
+00:00:08,600 --> 00:00:12,000
+The first problem is segmentation.
+
+4
+00:00:12,100 --> 00:00:16,400
+A single sentence may span several clauses,
+and each clause carries its own terminology.
+
+5
+00:00:16,500 --> 00:00:20,000
+Let us start with a simple example.
